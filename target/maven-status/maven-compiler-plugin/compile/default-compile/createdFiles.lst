@@ -1,0 +1,16 @@
+SOLID_OCP\Car.class
+SOLID_SRP\CarServiceStation.class
+SOLID_SRP\CheckMaster.class
+SOLID_SRP\CarStationWorker.class
+SOLID_OCP\Washer.class
+SOLID_OCP\Employee.class
+SOLID_SRP\Administrator.class
+SOLID_OCP\CheckMaster.class
+SOLID_SRP\Cleaner.class
+SOLID_OCP\CarServiceStation.class
+SOLID_OCP\Cleaner.class
+SOLID_SRP\Washer.class
+SOLID_OCP\CarStationWorker.class
+SOLID_OCP\Administrator.class
+SOLID_SRP\Car.class
+SOLID_OCP\Аccountant.class
