@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Hillel_Java_Intoduction" />
+        <module name="Hillel_Java_Enterprise" />
       </profile>
     </annotationProcessing>
   </component>
